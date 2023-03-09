@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "Bruno Rios",
+      "email": "BrunoRios@alura.com",
+      "id": 1
+    },
+    {
+      "nombre": "Daniel Cosser",
+      "email": "DanielCosser@alura.com",
+      "id": 2
+    },
+    {
+      "nombre": "Bruno",
+      "email": "bruno@hotmail.com",
+      "id": "3907fe11-b154-49a8-abdb-0151ea3c7936"
+    }
+  ]
+}
